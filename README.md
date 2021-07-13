@@ -39,12 +39,9 @@
 
  ## GitHub Stats
 
-<div class="row">
- <div class="col-6">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=edratabaku&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ovi" width="410" />
- </div>
-  <div class="col-6">
-   <img align="right" src="https://github-readme-stats.vercel.app/api?username=edratabaku&show_icons=true&locale=en&theme=tokyonight" alt="ovi" width="500" />
- </div>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=edratabaku&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ovi" width="410" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=edratabaku&show_icons=true&locale=en&theme=tokyonight" alt="ovi" width="500" /></p>
+
 
 <br/><br/><br/>
