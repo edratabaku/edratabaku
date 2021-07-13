@@ -1,9 +1,8 @@
 # Hi there, I'm Edra <img width="50px" src="http://pixelartmaker-data-78746291193.nyc3.digitaloceanspaces.com/image/c21dda2f6d67dbc.png" />
 
-<img align="right" alt="GIF" height="160px" src="https://media2.giphy.com/media/fTz2gJRh37GpDaiiyD/giphy.gif" /> 
 
 -  I'm a Computer Science Student 
--  I’m currently working as a .NET web developer.
+-  I’m currently working as a .NET developer.
 -  I’m currently learning more about Frontend and Backend technologies.
 
 ---
@@ -11,7 +10,6 @@
 ### Contact       <img src="https://media.giphy.com/media/9JgkrwuSuum7hDcgEQ/giphy.gif" width="40px">
 
 <a href="https://www.linkedin.com/in/edra-tabaku-817235204/"><img align="left" alt="edratabaku | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/></a>
-<a href="https://open.spotify.com/user/r58ct7o4i5nsrv2zur5f9a0cz"><img align="left" alt="dudutrbl | Spotify" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725281.svg" /></a>
 
 <br />
 
@@ -41,7 +39,12 @@
 
  ## GitHub Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=edratabaku&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ovi" width="410" /></p>
-<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=edratabaku&show_icons=true&locale=en&theme=tokyonight" alt="ovi" width="500" /></p>
+<div class="row">
+ <div class="col-6">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=edratabaku&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ovi" width="410" />
+ </div>
+  <div class="col-6">
+   <img align="right" src="https://github-readme-stats.vercel.app/api?username=edratabaku&show_icons=true&locale=en&theme=tokyonight" alt="ovi" width="500" />
+ </div>
 
 <br/><br/><br/>
