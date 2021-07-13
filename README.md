@@ -31,17 +31,7 @@
 <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
 
-<br/>
-
 ---
 
-<br/>
-
  ## GitHub Stats
-
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=edratabaku&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ovi" width="410" /></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=edratabaku&show_icons=true&locale=en&theme=tokyonight" alt="ovi" width="500" /></p>
-
-
-<br/><br/><br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=arsildo&show_icons=true&locale=en&layout=compact&theme=tokyonight" width="400" height="150"/><img style="align: right;" src="https://github-readme-stats.vercel.app/api?username=arsildo&show_icons=true&locale=en&theme=tokyonight" width="400" height="150" />
