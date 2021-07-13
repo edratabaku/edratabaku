@@ -34,4 +34,4 @@
 ---
 
  ## GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=arsildo&show_icons=true&locale=en&layout=compact&theme=tokyonight" width="400" height="150"/><img style="align: right;" src="https://github-readme-stats.vercel.app/api?username=arsildo&show_icons=true&locale=en&theme=tokyonight" width="400" height="150" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=edratabaku&show_icons=true&locale=en&layout=compact&theme=tokyonight" width="400" height="150"/><img style="align: right;" src="https://github-readme-stats.vercel.app/api?username=edratabaku&show_icons=true&locale=en&theme=tokyonight" width="400" height="150" />
