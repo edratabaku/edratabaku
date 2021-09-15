@@ -9,7 +9,7 @@
 
 ### Contact     
 
-<a href="https://www.linkedin.com/in/edra-tabaku-817235204/"><img align="left" alt="edratabaku | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/></a>
+<a href="https://www.linkedin.com/in/edra-tabaku-817235204/">LinkedIn</a>
 
 <br />
 
