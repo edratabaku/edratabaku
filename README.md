@@ -3,7 +3,7 @@
 
 -  I'm a Computer Science Student 
 -  I’m currently working as a .NET developer.
--  I’m currently learning more about Frontend and Backend technologies.
+-  I’m currently learning more about Backend and Frontend technologies.
 
 ---
 
